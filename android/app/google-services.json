@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631288142170",
+    "project_id": "awsapk-f7003",
+    "storage_bucket": "awsapk-f7003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631288142170:android:37d719999774a02b913b63",
+        "android_client_info": {
+          "package_name": "com.awsapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631288142170-clf389d26bf878ikqqtfgvr3d37bt7vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQXf28p5qouHAs6CimACpRJ9133mz3fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631288142170-clf389d26bf878ikqqtfgvr3d37bt7vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
