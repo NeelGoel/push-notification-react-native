@@ -9,26 +9,26 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:4:5-77
-11-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:4:22-75
+11-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:4:5-77
+11-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:4:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:3:5-67
-12-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:3:22-64
+12-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:3:22-64
 13    <uses-permission android:name="android.permission.VIBRATE" />
-13-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:6:5-66
-13-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:6:22-63
+13-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:6:5-66
+13-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:6:22-63
 14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-14-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:7:5-80
-14-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:7:22-78
+14-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:7:5-80
+14-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:7:22-78
 15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 15-->[com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
 15-->[com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
 16    <uses-permission android:name="android.permission.WAKE_LOCK" />
-16-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
-16-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
+16-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
+16-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
-17-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+17-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+17-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
 18    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
 18-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:25:5-77
 18-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:25:22-74
@@ -64,142 +64,142 @@
 30-->[app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:24:9-35
 31
 32    <application
-32-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:9:5-28:19
+32-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:9:5-28:19
 33        android:name="com.awsapk.MainApplication"
-33-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:10:7-38
+33-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:10:7-38
 34        android:allowBackup="false"
-34-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:14:7-34
+34-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:14:7-34
 35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 35-->[androidx.core:core:1.7.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\3c178461f96884367004b56ef82718bc\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 36        android:debuggable="true"
 37        android:icon="@mipmap/ic_launcher"
-37-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:12:7-41
+37-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:12:7-41
 38        android:label="@string/app_name"
-38-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:11:7-39
+38-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:11:7-39
 39        android:roundIcon="@mipmap/ic_launcher_round"
-39-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:13:7-52
+39-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:13:7-52
 40        android:theme="@style/AppTheme"
-40-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:15:7-38
+40-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:15:7-38
 41        android:usesCleartextTraffic="true" >
-41-->D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:8:9-44
+41-->D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:8:9-44
 42        <activity
-42-->D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:11:9-111
+42-->D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:11:9-111
 43            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-43-->D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:11:19-83
+43-->D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:11:19-83
 44            android:exported="false" />
-44-->D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:11:84-108
+44-->D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:11:84-108
 45        <activity
-45-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:16:7-27:18
+45-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:16:7-27:18
 46            android:name="com.awsapk.MainActivity"
-46-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:17:9-37
+46-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:17:9-37
 47            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-47-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:19:9-118
+47-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:19:9-118
 48            android:exported="true"
-48-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:22:9-32
+48-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:22:9-32
 49            android:label="@string/app_name"
-49-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:18:9-41
+49-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:18:9-41
 50            android:launchMode="singleTask"
-50-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:20:9-40
+50-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:20:9-40
 51            android:windowSoftInputMode="adjustResize" >
-51-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:21:9-51
+51-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:21:9-51
 52            <intent-filter>
-52-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:23:9-26:25
+52-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:23:9-26:25
 53                <action android:name="android.intent.action.MAIN" />
-53-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:24:13-65
-53-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:24:21-62
+53-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:24:13-65
+53-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:24:21-62
 54
 55                <category android:name="android.intent.category.LAUNCHER" />
-55-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:25:13-73
-55-->D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:25:23-70
+55-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:25:13-73
+55-->D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:25:23-70
 56            </intent-filter>
 57        </activity>
 58
 59        <provider
-59-->[:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:40
+59-->[:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:40
 60            android:name="io.invertase.notifee.NotifeeInitProvider"
-60-->[:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-68
+60-->[:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-68
 61            android:authorities="com.awsapk.notifee-init-provider"
-61-->[:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-73
+61-->[:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-73
 62            android:exported="false"
-62-->[:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+62-->[:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 63            android:initOrder="-100" />
-63-->[:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
+63-->[:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
 64
 65        <service
-65-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:40
+65-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:40
 66            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService"
-66-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-103
+66-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-103
 67            android:exported="false" />
-67-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+67-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 68        <service
-68-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-23:19
+68-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-23:19
 69            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
-69-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-95
+69-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-95
 70            android:exported="false" >
-70-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+70-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
 71            <intent-filter>
-71-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
+71-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
 72                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-72-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-78
-72-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-75
+72-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-78
+72-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-75
 73            </intent-filter>
 74        </service>
 75
 76        <receiver
-76-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-32:20
+76-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-32:20
 77            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
-77-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-96
+77-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-96
 78            android:exported="true"
-78-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-36
+78-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-36
 79            android:permission="com.google.android.c2dm.permission.SEND" >
-79-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-73
+79-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-73
 80            <intent-filter>
-80-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:29
+80-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:29
 81                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-81-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-81
-81-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-78
+81-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-81
+81-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-78
 82            </intent-filter>
 83        </receiver>
 84
 85        <meta-data
-85-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-36:36
+85-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-36:36
 86            android:name="firebase_messaging_auto_init_enabled"
-86-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-64
+86-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-64
 87            android:value="true" />
-87-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-33
+87-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-33
 88        <meta-data
-88-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:32
+88-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:32
 89            android:name="com.google.firebase.messaging.default_notification_channel_id"
-89-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-89
+89-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-89
 90            android:value="" />
-90-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-29
+90-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-29
 91        <meta-data
-91-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:47
+91-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:47
 92            android:name="com.google.firebase.messaging.default_notification_color"
-92-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-84
+92-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-84
 93            android:resource="@color/white" />
-93-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-44
+93-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-44
 94        <meta-data
-94-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-13:36
+94-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-13:36
 95            android:name="app_data_collection_default_enabled"
-95-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-63
+95-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-63
 96            android:value="true" />
-96-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-33
+96-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-33
 97
 98        <service
-98-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
+98-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
 99            android:name="com.google.firebase.components.ComponentDiscoveryService"
-99-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-84
+99-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-84
 100            android:directBootAware="true"
-100-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-43
+100-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-43
 101            android:exported="false" >
-101-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+101-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
 102            <meta-data
-102-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:85
+102-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:85
 103                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
-103-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-120
+103-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-120
 104                android:value="com.google.firebase.components.ComponentRegistrar" />
-104-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-82
+104-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-82
 105            <meta-data
 105-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:55:13-57:85
 106                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
@@ -227,15 +227,15 @@
 117        </service>
 118
 119        <provider
-119-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-29:38
+119-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-29:38
 120            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
-120-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-88
+120-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-88
 121            android:authorities="com.awsapk.reactnativefirebaseappinitprovider"
-121-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-86
+121-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-86
 122            android:exported="false"
-122-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-37
+122-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-37
 123            android:initOrder="99" />
-123-->[:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-35
+123-->[:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-35
 124
 125        <receiver
 125-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:31:9-38:20
@@ -246,10 +246,10 @@
 128            android:permission="com.google.android.c2dm.permission.SEND" >
 128-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:34:13-73
 129            <intent-filter>
-129-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:29
+129-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:29
 130                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-130-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-81
-130-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-78
+130-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-81
+130-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-78
 131            </intent-filter>
 132        </receiver>
 133        <!--
@@ -265,10 +265,10 @@
 140            android:exported="false" >
 140-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:47:13-37
 141            <intent-filter android:priority="-500" >
-141-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
+141-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
 142                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-142-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-78
-142-->[:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-75
+142-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-78
+142-->[:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-75
 143            </intent-filter>
 144        </service>
 145        <service

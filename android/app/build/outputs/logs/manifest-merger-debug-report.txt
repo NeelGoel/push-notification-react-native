@@ -1,18 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:1-29:12
-MERGED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:1-29:12
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:1-29:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\779af85e0571a461ca2eaed1c830c6b6\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\a901c4d159fb160f29facb54b890f0bd\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
-MERGED from [:aws-amplify_pushnotification] D:\Demo\Android\awsapk\node_modules\@aws-amplify\pushnotification\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:react-native-async-storage_async-storage] D:\Demo\Android\awsapk\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-45:12
-MERGED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-32:12
+MERGED from [:aws-amplify_pushnotification] D:\Demo\Android\final\push-notification-react-native\node_modules\@aws-amplify\pushnotification\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-async-storage_async-storage] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-32:12
 MERGED from [com.facebook.react:react-android:0.71.4] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\89ee652f258303bd623bb8a91c16958f\transformed\jetified-react-android-0.71.4-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\2ed83710fd80cb86f8ac35fdd448ef01\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:20.0.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\7b2ae187a38e9f2ef1fa2a07dc0ab962\transformed\jetified-firebase-core-20.0.0\AndroidManifest.xml:2:1-9:12
@@ -103,31 +103,31 @@ MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\cache
 MERGED from [org.greenrobot:eventbus:3.3.1] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\5ff8b44fd0f1c6470467b367b4d8f900\transformed\jetified-eventbus-3.3.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\7aec3c127dd04285fce13e8f7a17edc8\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\be52833261e20db2d713a721e94fe01b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:2:1-13:12
-INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:2:1-13:12
-INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 	package
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:1-29:12
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:1-29:12
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:3:5-51
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:1-29:12
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:3:5-67
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:3:5-67
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
-MERGED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
-MERGED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\bde6ae17b69bdfa0dac27e5e9d18a271\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\bde6ae17b69bdfa0dac27e5e9d18a271\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\722c00e443e5a3013226aa6f18eba655\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
@@ -145,37 +145,37 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:14:5-67
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:3:22-64
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:3:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:4:5-77
-MERGED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:4:5-77
-MERGED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:4:5-77
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:4:5-77
+MERGED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:4:5-77
+MERGED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:4:5-77
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:4:22-75
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:4:22-75
 uses-permission#android.permission.VIBRATE
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:6:5-66
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:6:5-66
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:13:5-66
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:13:5-66
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:6:22-63
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:6:22-63
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:7:5-80
 MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\057bd26e94e4420074a62d01a9ced0e5\transformed\work-runtime-2.8.0\AndroidManifest.xml:25:5-81
 MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\057bd26e94e4420074a62d01a9ced0e5\transformed\work-runtime-2.8.0\AndroidManifest.xml:25:5-81
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:12:5-81
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:9:5-28:19
-MERGED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:9:5-28:19
-MERGED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:9:5-28:19
-MERGED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-43:19
-MERGED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-43:19
-MERGED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-30:19
-MERGED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-30:19
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:9:5-28:19
+MERGED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:9:5-28:19
+MERGED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:9:5-28:19
+MERGED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-30:19
 MERGED from [com.facebook.react:react-android:0.71.4] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\89ee652f258303bd623bb8a91c16958f\transformed\jetified-react-android-0.71.4-debug\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-android:0.71.4] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\89ee652f258303bd623bb8a91c16958f\transformed\jetified-react-android-0.71.4-debug\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:20.0.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\7b2ae187a38e9f2ef1fa2a07dc0ab962\transformed\jetified-firebase-core-20.0.0\AndroidManifest.xml:7:5-20
@@ -241,73 +241,73 @@ MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\3c178461f96884367004b56ef82718bc\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:11:7-39
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:11:7-39
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:11:7-39
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:11:7-39
 	tools:ignore
-		ADDED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:10:9-48
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:10:9-48
 	android:roundIcon
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:13:7-52
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:13:7-52
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:13:7-52
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:13:7-52
 	tools:targetApi
-		ADDED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:9:9-29
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:9:9-29
 	android:icon
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:12:7-41
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:12:7-41
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:12:7-41
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:12:7-41
 	android:allowBackup
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:14:7-34
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:14:7-34
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:14:7-34
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:14:7-34
 	android:theme
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:15:7-38
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:15:7-38
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:15:7-38
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:15:7-38
 	android:usesCleartextTraffic
-		ADDED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:8:9-44
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:8:9-44
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:10:7-38
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:10:7-38
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:10:7-38
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:10:7-38
 activity#com.awsapk.MainActivity
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:16:7-27:18
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:16:7-27:18
 	android:label
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:18:9-41
 	android:launchMode
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:20:9-40
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:20:9-40
 	android:windowSoftInputMode
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:21:9-51
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:21:9-51
 	android:exported
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:22:9-32
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:22:9-32
 	android:configChanges
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:19:9-118
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:19:9-118
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:17:9-37
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:17:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:23:9-26:25
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:23:9-26:25
 action#android.intent.action.MAIN
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:24:13-65
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:24:13-65
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:24:21-62
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:24:21-62
 category#android.intent.category.LAUNCHER
-ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:25:13-73
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:25:13-73
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml:25:23-70
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml:25:23-70
 uses-sdk
-INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\779af85e0571a461ca2eaed1c830c6b6\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\779af85e0571a461ca2eaed1c830c6b6\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\a901c4d159fb160f29facb54b890f0bd\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\a901c4d159fb160f29facb54b890f0bd\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
-MERGED from [:aws-amplify_pushnotification] D:\Demo\Android\awsapk\node_modules\@aws-amplify\pushnotification\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:aws-amplify_pushnotification] D:\Demo\Android\awsapk\node_modules\@aws-amplify\pushnotification\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] D:\Demo\Android\awsapk\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] D:\Demo\Android\awsapk\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:aws-amplify_pushnotification] D:\Demo\Android\final\push-notification-react-native\node_modules\@aws-amplify\pushnotification\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:aws-amplify_pushnotification] D:\Demo\Android\final\push-notification-react-native\node_modules\@aws-amplify\pushnotification\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
 MERGED from [com.facebook.react:react-android:0.71.4] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\89ee652f258303bd623bb8a91c16958f\transformed\jetified-react-android-0.71.4-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.4] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\89ee652f258303bd623bb8a91c16958f\transformed\jetified-react-android-0.71.4-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\2ed83710fd80cb86f8ac35fdd448ef01\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
@@ -488,36 +488,36 @@ MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\pradip.bhagat\.gradle\ca
 MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\7aec3c127dd04285fce13e8f7a17edc8\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\be52833261e20db2d713a721e94fe01b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\be52833261e20db2d713a721e94fe01b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml
-INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:11:9-111
+ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:11:9-111
 	android:exported
-		ADDED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:11:84-108
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:11:84-108
 	android:name
-		ADDED from D:\Demo\Android\awsapk\android\app\src\debug\AndroidManifest.xml:11:19-83
+		ADDED from D:\Demo\Android\final\push-notification-react-native\android\app\src\debug\AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f2d2139389380be80b3e62a1fbb18569\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
 provider#io.invertase.notifee.NotifeeInitProvider
-ADDED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:40
+ADDED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:40
 	android:authorities
-		ADDED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-73
+		ADDED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-73
 	android:exported
-		ADDED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+		ADDED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 	android:initOrder
-		ADDED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
+		ADDED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [:notifee_react-native] D:\Demo\Android\awsapk\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-68
+		ADDED from [:notifee_react-native] D:\Demo\Android\final\push-notification-react-native\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-68
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
 MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:26:5-68
 MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:26:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\722c00e443e5a3013226aa6f18eba655\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
@@ -535,9 +535,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:10:5-68
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:10:5-68
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
 MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\bde6ae17b69bdfa0dac27e5e9d18a271\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
@@ -561,65 +561,65 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:11:5-79
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
 service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:40
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:40
 	android:exported
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-103
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-103
 service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-23:19
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-23:19
 	android:exported
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-95
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-95
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-78
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-78
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-75
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-75
 receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-32:20
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-32:20
 	android:exported
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-36
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-36
 	android:permission
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-73
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-73
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-96
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-96
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:29
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-81
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-81
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-78
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-78
 meta-data#firebase_messaging_auto_init_enabled
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-36:36
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-36:36
 	android:value
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-33
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-33
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-64
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-64
 meta-data#com.google.firebase.messaging.default_notification_channel_id
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:32
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:32
 	android:value
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-29
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-29
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-89
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-89
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:47
+ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:47
 	android:resource
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-44
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-44
 	android:name
-		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-84
+		ADDED from [:react-native-firebase_messaging] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-84
 meta-data#app_data_collection_default_enabled
-ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-13:36
+ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-13:36
 	android:value
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-33
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-33
 	android:name
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-63
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-63
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
+ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:19
 MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:52:9-58:19
 MERGED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:52:9-58:19
 MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\ed548e7ba8d876ad310e2aeaa945d01f\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
@@ -631,29 +631,29 @@ MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\pradip.
 MERGED from [com.google.firebase:firebase-common:20.3.1] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f7f232a286d36d5374bf388fa55b5017\transformed\jetified-firebase-common-20.3.1\AndroidManifest.xml:32:9-36:35
 MERGED from [com.google.firebase:firebase-common:20.3.1] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\f7f232a286d36d5374bf388fa55b5017\transformed\jetified-firebase-common-20.3.1\AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
 	tools:targetApi
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-32
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-32
 	android:directBootAware
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-43
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-43
 	android:name
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-84
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-84
 meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:85
+ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:85
 	android:value
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-82
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-82
 	android:name
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-120
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-120
 provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
-ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-29:38
+ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-29:38
 	android:authorities
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-86
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-86
 	android:exported
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-37
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-37
 	android:initOrder
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-35
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-35
 	android:name
-		ADDED from [:react-native-firebase_app] D:\Demo\Android\awsapk\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-88
+		ADDED from [:react-native-firebase_app] D:\Demo\Android\final\push-notification-react-native\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-88
 uses-permission#android.permission.POST_NOTIFICATIONS
 ADDED from [com.google.firebase:firebase-messaging:23.1.2] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\edef3140c127c9850ea7e05ea32fc1f8\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:25:5-77
 MERGED from [app.notifee:core:202108261754] C:\Users\pradip.bhagat\.gradle\caches\transforms-3\742dc500529637efcf91cb3682ef5e36\transformed\jetified-core-202108261754\AndroidManifest.xml:9:5-77
